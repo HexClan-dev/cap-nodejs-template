@@ -1,5 +1,5 @@
 {
-    "name": "Exploring Managed Associations in CAP",
+    "name": "SAP CAP NodeJs Template",
     "build": {
         "dockerfile": "Dockerfile",
         "args": {
